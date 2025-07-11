@@ -7,4 +7,4 @@ Copy the code and directly run on Vs code or any code editor must sure that pyth
 * than paste the code and run it .
 
  
-sorry for the mistake in  vote-eligibility.py.py  name  .py is mistakly added one more time  but dont worry code will run properly  just copy and run on your editor .
+sorry for the mistake in  vote-eligibility.py.py  name   .py is mistakly added one more time  but don't worry code will run properly  just copy and run on your editor .
